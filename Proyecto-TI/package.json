@@ -1,0 +1,29 @@
+{
+  "name": "proyecto-ti",
+  "version": "1.0.0",
+  "description": "Node.js API for sushi shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svergara1/proyecto-ti-grupo12.git"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "api",
+    "sushi"
+  ],
+  "author": "grupo 12",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svergara1/proyecto-ti-grupo12/issues"
+  },
+  "homepage": "https://github.com/svergara1/proyecto-ti-grupo12#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
